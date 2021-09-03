@@ -33,7 +33,7 @@ const Landing = ({ auth }) => {
                     borderRadius: "3px",
                     letterSpacing: "1.5px"
                   }}
-                  className="btn btn-lg btn-danger"
+                  className="btn btn-lg btn-danger text-white"
                 >
                   Register
                 </Link>

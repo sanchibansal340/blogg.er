@@ -64,7 +64,7 @@ const Navbar = ({ auth }) => {
               <li className="nav-item">
                 {auth.isAuthenticated ? 
                   <a
-                    className="btn btn-danger"
+                    className="btn btn-danger text-white"
                     href="/dashboard"
                   >
                     Dashboard
